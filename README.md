@@ -1,5 +1,5 @@
 # Art of Itself
-Ascii of a word in the shape of itself!
+Ascii art of a word in the shape of itself!
 
 # How to use :0
 ``` bash
