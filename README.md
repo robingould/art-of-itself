@@ -1,5 +1,5 @@
 # Art of Itself
-Ascii art of a word in the shape of itself!
+Simple cli script that turns a word into ascii art in the shape of itself.
 
 # How to use :0
 ``` bash
